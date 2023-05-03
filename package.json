@@ -1,0 +1,14 @@
+{
+  "name": "webflow-api",
+  "version": "1.0.0",
+  "description": "Testing Webflow's API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Istvan Toth",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.9"
+  }
+}
